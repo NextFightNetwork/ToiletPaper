@@ -13,7 +13,7 @@ Perfect for a minigame server.
 - Removed some warnings in console
 
 ## TODO
-- Unnecessary files 
+- Remove unnecessary files 
 - Option to disable all default commands for player
 - Option to not show player IP's in console
 - Option to disable logs / minimal logs
