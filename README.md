@@ -3,8 +3,8 @@
 </div>
 
 # What is ToiletPaper?
-Its Paper but without the end, nether, playerstats etc.
-Its perfect for a minigame server.
+Its a Paper fork without some features.
+Perfect for a minigame server.
 
 ## Changed
 - Removed eula.txt
