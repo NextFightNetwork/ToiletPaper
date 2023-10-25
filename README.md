@@ -9,11 +9,12 @@ Its perfect for a minigame server.
 ## Changed
 - Removed eula.txt
 - Removed some commands
+- Disabled nether & end by default
+- Removed some warnings in console
 
 ## TODO
 - Unnecessary files 
 - Option to disable all default commands for player
-- Option for minigame server: not save player data and worlds also only load the main world & more
 - Option to not show player IP's in console
 - Option to disable logs / minimal logs
 - Less config files
