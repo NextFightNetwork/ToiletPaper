@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://github.com/NextFightNetwork/ToiletPaper/releases"><img src="https://img.shields.io/github/v/tag/NextFightNetwork/ToiletPaper.svg" alt="Version"></a>  
+</div>
+
 # What is ToiletPaper?
 Its Paper but without the end, nether, playerstats etc.
 Its perfect for a minigame server.
