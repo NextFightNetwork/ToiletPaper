@@ -22,12 +22,4 @@ Perfect for a minigame server.
 - Remove chat report
 - Remove rcon
 
-## Installation
-
-### Compile PaperToilet
-- Clone this repo
-- run `./gradlew applyPatches`
-- run `./gradlew createReobfBundlerJar`
-- The jar will be in build/libs
-
 You can still write plugins using the normal paper api but some features will be missing like the player statistics
