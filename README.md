@@ -6,7 +6,7 @@
 Its a Paper fork without some "features".  
 Perfect for a minigame server.
 
-[Here is the download](github.com/NextFightNetwork/ToiletPaper/releases/latest)
+[Here is the download](https://github.com/NextFightNetwork/ToiletPaper/releases/latest)
 
 # What is different?
 - Removed command aliases
