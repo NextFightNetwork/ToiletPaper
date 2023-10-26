@@ -38,13 +38,9 @@ DownloadPlugins:
 ```
 
 ## TODO
-- Remove unnecessary files 
 - Option to disable all default commands for player
 - Option to not show player IP's in console
 - Option to disable logs / minimal logs
 - Less config files
-- Remove advancements
-- Remove chat report
-- Remove rcon
 
 You can still write plugins using the normal paper api but some features will be missing like the player statistics
