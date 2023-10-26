@@ -10,6 +10,7 @@ Perfect for a minigame server.
 - Removed command aliases
 - Removed eula.txt
 - Reduced console logs
+- Disabled timings
 - Increased required permission level of some commands like /plugins or /version
 - Improved tps command
 - Added toiletpaper.yml
