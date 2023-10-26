@@ -3,7 +3,7 @@
 </div>
 
 # What is ToiletPaper?
-Its a Paper fork without some "features".
+Its a Paper fork without some "features".  
 Perfect for a minigame server.
 
 # What is different?
