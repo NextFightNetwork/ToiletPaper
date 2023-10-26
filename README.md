@@ -17,7 +17,7 @@ Perfect for a minigame server.
 - Improved tps command
 - Added toiletpaper.yml
 - Added auto downloaded plugins (which can be disabled in toiletpaper.yml)
-  - AntiPopup
+  - AntiPopup (No chat report)
 
 ### Changed default options in some configs
 > **Important**
