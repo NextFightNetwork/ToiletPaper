@@ -41,6 +41,11 @@ DownloadPlugins:
     URL: https://nextfight.net/public/toiletpaper/plugins/AntiPopup-7.1.jar
 ```
 
+> **Note**  
+> If you have set `DisableWorldSaving` to true  
+> no world will be saved which means your world will be resetet after a restart  
+> you can still use the `/save-all` command to save your progress  
+
 ## TODO
 - Option to disable all default commands for player
 - Option to not show player IP's in console
