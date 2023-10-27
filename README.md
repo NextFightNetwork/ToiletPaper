@@ -34,9 +34,12 @@ Perfect for a minigame server.
 `toiletpaper.yml`
 ```yml
 Option:
-  SaveWorlds: false
+  DisableWorldSaving: true
+  DisableVersionCommandArgs: true
+  DisableAllCommands: false
+  AutoDownloadPlugins: true
 DownloadPlugins:
-  1:
+  AntiPopup-7_1_jar:
     NAME: AntiPopup-7.1.jar
     URL: https://nextfight.net/public/toiletpaper/plugins/AntiPopup-7.1.jar
 ```
