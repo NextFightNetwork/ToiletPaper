@@ -10,6 +10,8 @@ Perfect for a minigame server.
 
 [Download latest jar](https://github.com/NextFightNetwork/ToiletPaper/releases/download/1.3.1/ToiletPaper-1.20.2-v1.3.1.jar)
 
+<img src="https://github.com/NextFightNetwork/ToiletPaper/assets/114857048/b24d6b69-dace-4f0d-853a-ae40f50edf53" width="400px">
+
 # What is different?
 - Removed command aliases
 - Removed eula.txt
