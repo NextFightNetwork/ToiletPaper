@@ -40,6 +40,8 @@ Option:
   DisableVersionCommandArgs: true
   DisableAllCommands: false
   AutoDownloadPlugins: true
+  FastShutdown: false
+  FastStart: false
 DownloadPlugins:
   AntiPopup-7_1_jar:
     NAME: AntiPopup-7.1.jar
@@ -50,11 +52,5 @@ DownloadPlugins:
 > If you have set `DisableWorldSaving` to true  
 > no world will be saved which means your world will be resetet after a restart  
 > you can still use the `/save-all` command to save your progress  
-
-## TODO
-- Option to disable all default commands for player
-- Option to not show player IP's in console
-- Option to disable logs / minimal logs
-- Less config files
 
 You can still write plugins using the normal paper api but some features will be missing like the player statistics
